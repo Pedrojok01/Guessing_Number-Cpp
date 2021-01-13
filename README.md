@@ -6,7 +6,7 @@ Guessing Number game with a few extra features added, written in C++.
 How To Play:
 ============
 
-1/ Player 1 must input a number. 4 Characters are required, so for example, if you want to write 50, you must enter: "0050".
+1/ Player 1 must input a number from 0 to 9999. 4 Characters are required, so for example, if you want to write 50, you must enter: "0050".
 
 2/ Then, player 2 can start guessing player 1 number in as little attempts as possible. Enter your guess and press Enter. Be sure to enter an integer or you might regret it...
 
