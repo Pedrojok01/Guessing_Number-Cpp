@@ -1,4 +1,4 @@
-# Guessing-Number---C-
+# Guessing_Number_C++
 ======================
 
 Guessing Number game with a few extra features added, written in C++.
