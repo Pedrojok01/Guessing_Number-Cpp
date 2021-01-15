@@ -13,3 +13,11 @@ Please note that 4 Characters are required! So for example, if you want your num
 
 3/ If you want to play again, enter 'y' or 'Y' when the prompt tells you to do so. Enter any other key to exit the program.
 
+
+Features:
+=========
+
+- Player 1's number is hidden while typing (password-like input) ;
+- Only Integers are allowed, both from player 1 & 2 ;
+- Counter keeping tracks of attempts's number ;
+- "Play again or quit" option at the end ;
