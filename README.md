@@ -1,6 +1,7 @@
 # Guessing_Number_C++
 
 My Guessing Number game with a few extra features added, written in C++.
+Note: Due to the use of the old conio.h library, this program is meant to work on windows machines.
 
 
 How To Play:
